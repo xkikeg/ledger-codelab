@@ -1,0 +1,20 @@
+2022/12/01 * 初期残高
+    Assets:Banks:Okane                       120,000 JPY = 120,000 JPY
+    Equity:Opening Balances
+
+2022/12/01 * 渋谷ATM
+    Assets:Banks:Okane                        -5,000 JPY
+    Expenses:Cash
+
+2022/12/03=2022/12/05 * (14142) コンビニ
+    Assets:Banks:Okane                          -145 JPY
+    Expenses:Grocery                             145 JPY
+
+2022/12/05 * 丸の内支店
+    Assets:Banks:Okane                        10,000 JPY
+    Income:Baito                             -10,000 JPY
+    ; マイナスの収入!!!
+
+2022/12/10 * yellowカード支払い
+    Assets:Banks:Okane                       -25,000 JPY
+    Liabilities:Wire:Yellow

@@ -1,0 +1,34 @@
+2022/11/01 ! 初期残高
+    Liabilities:Card:Yellow                   -6,122 JPY
+    Equity:Opening Balances
+
+2022/11/02 * とあるスーパー
+    Liabilities:Card:Yellow
+    Expenses:Grocery                           2,300 JPY
+
+2022/11/02 * ゲームショップ
+    Liabilities:Card:Yellow                   -6,578 JPY
+    Expenses:Fun:Game                          6,578 JPY
+
+2022/11/03 * 新幹線のチケット
+    Liabilities:Card:Yellow                  -10,000 JPY
+    Expenses:Travel
+
+
+; 続き... 他に買い物はなかった
+
+2022/11/15 * 支払額決定
+    Liabilities:Card:Yellow                  25,000 JPY = 0
+    Liabilities:Wire:Yellow
+
+2022/11/20 * コンビニ
+    Liabilities:Card:Yellow
+    Expenses:Grocery                             135 JPY
+
+2022/11/30 * コンビニ
+    Liabilities:Card:Yellow
+    Expenses:Grocery                             200 JPY
+
+2022/12/5 * コンビニ
+    Liabilities:Card:Yellow
+    Expenses:Grocery                             135 JPY

@@ -1,0 +1,17 @@
+2022/11/25 給与
+    Income:Salary:Base                      -300,000 JPY
+    Income:Salary:Overtime                   -10,000 JPY
+    Income:Work:Commute                      -10,000 JPY
+    ; Assets:Receivable:Workにする手もある
+    Expenses:Tax:Social Security               2,891 JPY
+    ; 健康保険
+    Expenses:Tax:Wellfare                      8,562 JPY
+    ; 厚生年金
+    Expenses:Tax:Social Security               1,500 JPY
+    ; 雇用保険
+    Expenses:Tax:Income                       17,000 JPY
+    ; 所得税
+    Expenses:Tax:Income                       10,000 JPY
+    ; 住民税
+    Assets:Wire:Salary                       280,047 JPY
+    ; 手取り
